@@ -9,3 +9,6 @@
 [submodule "wofi"]
 	path = wofi
 	url = https://github.com/cyb3rkun/arch.hyprland.wofi
+[submodule "hypr"]
+	path = hypr
+	url = https://github.com/cyb3rkun/arch.hyprland
