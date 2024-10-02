@@ -2,7 +2,10 @@
 	path = nvim
 	url = https://github.com/cyb3rkun/nvim
 	branch = master
-[submodule "hyprland.waybar"]
+[submodule "waybar"]
 	path = waybar
 	url = https://github.com/cyb3rkun/hyprland.waybar
 	branch = master
+[submodule "wofi"]
+	path = wofi
+	url = https://github.com/cyb3rkun/arch.hyprland.wofi
