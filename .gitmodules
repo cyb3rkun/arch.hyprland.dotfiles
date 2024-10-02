@@ -1,0 +1,8 @@
+[submodule "nvim"]
+	path = nvim
+	url = https://github.com/cyb3rkun/nvim
+	branch = master
+[submodule "hyprland.waybar"]
+	path = waybar
+	url = https://github.com/cyb3rkun/hyprland.waybar
+	branch = master
