@@ -1,0 +1,26 @@
+
+*.log
+/GitHub Desktop
+*.log
+*.log
+/GitHub Desktop/Local Storage
+/GitHub Desktop
+GitHub Desktop/WebStorage/QuotaManager-journal
+/Signal
+/go
+/gtk-3.0
+/dconf
+appimagelauncher.cfg
+pavucontrol.ini
+/systemd
+/Thunar
+/pulse
+mimeapps.list
+/lf
+kritarc
+kritadisplayrc
+/inkscape
+ranger/rifle.conf
+/xfce4
+/xfce4
+xfce4/xfconf/xfce-perchannel-xml/thunar.xml
